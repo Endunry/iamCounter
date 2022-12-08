@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "iamCounter",
+  "version": "1.0",
+
+  "description": "The free will of a Internet User is nowadays calles \"internet attention market\" (iam) and there are studies that aim to design the Internet so a consumer wont leave the internet. This Extension aims to counter these effects so one can enjoy the Web while still feeling Productive",
+
+  "content_scripts": [
+    {
+      "js": ["index.js"]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+        "id": "iamcounter@endunry.de"
+    }
+}
+}

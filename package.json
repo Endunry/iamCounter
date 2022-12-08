@@ -1,0 +1,19 @@
+{
+  "name": "iamcounter",
+  "version": "1.0.0",
+  "description": "The free will of a Internet User is nowadays calles \"internet attention market\" (iam) and there are studies that aim to design the Internet so a consumer wont leave the internet. This Extension aims to counter these effects so one can enjoy the Web while still feeling Productive",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raqhael/iamCounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raqhael/iamCounter/issues"
+  },
+  "homepage": "https://github.com/Raqhael/iamCounter#readme",
+  "devDependencies": {
+    "web-ext": "^7.4.0"
+  }
+}
